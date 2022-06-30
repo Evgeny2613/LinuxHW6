@@ -4,3 +4,4 @@
    3 chmod u-r /tmp/file.txt 
    4 chmod o+x /tmp/file.txt 
    5 history > /tmp/HW4.txt
+Hello
